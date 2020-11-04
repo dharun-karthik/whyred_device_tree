@@ -32,7 +32,7 @@ $(call inherit-product, device/xiaomi/whyred/device.mk)
 $(call inherit-product, vendor/awaken/config/common.mk)
 
 DEVICE_MAINTAINER := Dharun
-PRODUCT_NAME := arrow_whyred
+PRODUCT_NAME := awaken_whyred
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi
